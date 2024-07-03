@@ -1,6 +1,7 @@
-# uniride
+# TCC
 
-A new Flutter project.
+Aplicativo de carona exclusivo para estudantes universitários.
+Onde os estudantes podem dividir os custos de locomoção de suas casa/trabalhos até a universidade.
 
 ## Getting Started
 
